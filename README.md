@@ -74,32 +74,7 @@ Upload an image or video to see real-time results, including bounding boxes, spe
 
 
 
-Project Structure
-------------------
-4_webapp/
-├── Home.py              # Main page of the application
-├── pages/
-│   ├── 1_YOLO_for_image.py  # Image detection page
-│   ├── 2_About.py           # About page
-│   └── 3_YOLO_for_video.py  # Video detection and tracking page
-├── fine_tune_yolo.py    # Script to fine-tune the YOLOv8 model
-├── yolo_predictions.py  # YOLO prediction and tracking logic
-├── speed_direction.py   # Speed and direction estimation
-├── sort.py              # Unused SORT implementation
-├── audio_analysis1.py   # Siren detection logic
-├── models/              # Model files and configuration
-│   ├── yolov8n.pt       # Pre-trained YOLOv8 model
-│   ├── yolov8n_finetuned.pt  # Fine-tuned model
-│   └── data.yaml        # Dataset configuration
-├── data_images/         # Dataset with train and test splits
-│   ├── train/
-│   │   ├── images/
-│   │   └── labels/
-│   └── test/
-│       ├── images/
-│       └── labels/
-├── images/              
-└── audio/               
+             
 
 
 Contact
