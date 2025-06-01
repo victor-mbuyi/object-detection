@@ -17,3 +17,11 @@ requests==2.32.3
 h5py==3.11.0
 pyarrow==17.0.0
 safetensors==0.5.3
+streamlit
+ultralytics
+opencv-python
+matplotlib
+numpy
+pillow
+pyyaml
+librosa
