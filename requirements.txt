@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+numpy
+pyyaml
+pillow
+matplotlib
+scipy
+ultralytics
+librosa
+soundfile
